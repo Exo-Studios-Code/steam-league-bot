@@ -1,0 +1,4 @@
+DISCORD_TOKEN = "your_discord_bot_token"
+STEAM_API_KEY = ""
+STEAM_APP_ID = 2994020
+ADMIN_ROLE_ID = 0
